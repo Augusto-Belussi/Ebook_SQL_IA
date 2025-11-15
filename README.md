@@ -65,6 +65,12 @@ O conteúdo é ideal para estudantes, iniciantes em programação, desenvolvedor
 
 • Boas práticas para iniciantes
 
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [Gemini](https://gemini.google.com/app?hl=pt-BR)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
 
 ## 🚀 Sobre o Autor
 
