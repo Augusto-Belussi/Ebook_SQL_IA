@@ -65,6 +65,12 @@ O conteúdo é ideal para estudantes, iniciantes em programação, desenvolvedor
 
 • Boas práticas para iniciantes
 
+## 📚 Materiais
+
+- Imagens utilizadas em `assets`
+- ebook gerado em `output`
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
