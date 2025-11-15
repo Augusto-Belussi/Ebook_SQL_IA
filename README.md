@@ -4,7 +4,7 @@
     width="500"
 />
 
-📘 Code & Query – A Jornada SQL do Zero
+## 📘 Code & Query – A Jornada SQL do Zero
 
 Bem-vindo ao repositório oficial do eBook Code & Query – A Jornada SQL do Zero, um guia criado para ajudar iniciantes a aprender SQL de forma simples, objetiva e prática.
 
@@ -12,7 +12,7 @@ Este material apresenta desde os conceitos fundamentais de bancos de dados até 
 
 <a href="https://github.com/Augusto-Belussi/Ebook_SQL_IA/blob/main/output/ebook%20-%20Code%20%26%20Query%20.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
-📖 Sobre o eBook
+## 📖 Sobre o eBook
 
 O eBook foi desenvolvido com o objetivo de ensinar SQL do zero, mesmo para quem nunca teve contato com bancos de dados.
 Aqui você aprenderá:
@@ -34,7 +34,7 @@ Noções básicas sobre JOINs e funções de agregação
 O conteúdo é ideal para estudantes, iniciantes em programação, desenvolvedores júnior e todos que desejam entrar no universo dos dados.
 
 
-🧠 Para quem este eBook é indicado?
+## 🧠 Para quem este eBook é indicado?
 
 • Pessoas iniciando na área de tecnologia
 
@@ -47,7 +47,7 @@ O conteúdo é ideal para estudantes, iniciantes em programação, desenvolvedor
 • Curiousos que querem entender como dados funcionam
 
 
-📌 Conteúdos Abordados
+## 📌 Conteúdos Abordados
 
 • Introdução ao SQL
 
@@ -66,7 +66,7 @@ O conteúdo é ideal para estudantes, iniciantes em programação, desenvolvedor
 • Boas práticas para iniciantes
 
 
-🚀 Sobre o Autor
+## 🚀 Sobre o Autor
 
 Criado por Augusto Belussi
 
