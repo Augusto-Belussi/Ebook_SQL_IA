@@ -10,6 +10,7 @@ Bem-vindo ao repositório oficial do eBook Code & Query – A Jornada SQL do Zer
 
 Este material apresenta desde os conceitos fundamentais de bancos de dados até comandos essenciais como SELECT, WHERE, JOIN, INSERT, UPDATE e muito mais — tudo explicado de maneira clara e acessível.
 
+<a href="https://github.com/Augusto-Belussi/Ebook_SQL_IA/blob/main/output/ebook%20-%20Code%20%26%20Query%20.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 📖 Sobre o eBook
 
