@@ -82,4 +82,4 @@ O conteúdo é ideal para estudantes, iniciantes em programação, desenvolvedor
 
 Criado por Augusto Belussi
 
-[GitHub](https://github.com/Augusto-BelussiB) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
+[GitHub](https://github.com/Augusto-Belussi) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
